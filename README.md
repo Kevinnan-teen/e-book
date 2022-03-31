@@ -17,6 +17,9 @@
 :sunny: [CCF-CSP认证 C++ 常用标准函数库](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/cpp/CCF-CSP%E8%AE%A4%E8%AF%81C%2B%2B%E5%B8%B8%E7%94%A8%E6%A0%87%E5%87%86%E5%BA%93%E5%87%BD%E6%95%B0.pdf)
 
 ### C
+:jack_o_lantern: [C程序设计语言 K&R](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/c/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%28K%26R%29%E6%B8%85%E6%99%B0%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+:jack_o_lantern: [GNU_make 中文手册](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/c/GNU_make%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.pdf)
 
 ### Linux
 :umbrella: [Linux-Unix 系统编程手册](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/linux/LINUX-Unix%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C.pdf)
