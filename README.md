@@ -42,8 +42,8 @@
 
 ### 系统设计
 :confetti_ball: [《System Design Interview An Insider’s Guide 【美】Alex Xu》]()
+
 :confetti_ball: [《数据密集型应用系统设计》【英】Martin Kleppmann]()
-:confetti_ball: [《》【】]()
 
 
 ### 音视频
