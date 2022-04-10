@@ -30,11 +30,21 @@
 
 :umbrella: [《TCP IP 网络编程》【韩】尹圣雨](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/linux/%E3%80%8ATCP%20IP%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E3%80%8B%28%E9%9F%A9%29%E5%B0%B9%E5%9C%A3%E9%9B%A8.pdf)
 
+:umbrella: [《Linux 设备驱动开发详解：基于最新 Linux4.0 内核》宋宝华]()
+
+:umbrella: [《Linux 设备驱动 第三版》【美】Jonathan Corbet]()
+
 ### 测试
 :zap: [《单元测试的艺术 第2版》【以】Roy Osherove](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/test/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%9A%84%E8%89%BA%E6%9C%AF%28%E7%AC%AC2%E7%89%88%29.pdf)
 
 ### 计算机基础
 :tanabata_tree: [《深入理解计算机系统》【美】Randal E.Bryant](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/cs/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.pdf)
+
+### 系统设计
+:confetti_ball: [《System Design Interview An Insider’s Guide 【美】Alex Xu》]()
+:confetti_ball: [《数据密集型应用系统设计》【英】Martin Kleppmann]()
+:confetti_ball: [《》【】]()
+
 
 ### 音视频
 :snowman: [《FFmpeg 从入门到精通》 刘岐](https://ebook-1301626360.cos.ap-nanjing.myqcloud.com/av/FFmpeg%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%20by%20%E5%88%98%E6%AD%A7%20%E8%B5%B5%E6%96%87%E6%9D%B0%20.pdf)
